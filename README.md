@@ -1,7 +1,7 @@
 
 ## Dashboard Preview
 
-![Retail Sales Dashboard](images/Retail%20sales%20dashboard.png)
+![Retail sales dashboard](images/Retail%20sales%20dashboard.png)
 
 Project Overview
 An interactive Power BI dashboard analysing BlinkIT grocery sales to identify product performance, outlet trends, and key business insights.
