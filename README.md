@@ -1,7 +1,8 @@
 
 ## Dashboard Preview
 
-![Retail Sales Dashboard](image/dashboard.jpg)
+
+![BlinkIT Grocery Sales Dashboard](image/dashboard.jpg)
 
 Project Overview
 An interactive Power BI dashboard analysing BlinkIT grocery sales to identify product performance, outlet trends, and key business insights.
@@ -17,11 +18,11 @@ Tools Used
 - Average Rating: 3.9
 
  Key Findings
-- Top Item Types:** Fruits and Vegetables and Snack Foods led sales at approximately $0.18M each.
-- Fat Content:** Low-fat products generated $776.32K, compared with $425.36K for regular-fat products.
-- Outlet Size:** Medium-sized outlets recorded the highest sales at $507.90K.
-- Outlet Location:** Tier 3 outlets led with $472.13K.
-- Outlet Type:** Supermarket Type 1 generated the highest sales at $787.55K.
+- Top Item Types: Fruits and Vegetables and Snack Foods led sales at approximately $0.18M each.
+- Fat Content: Low-fat products generated $776.32K, compared with $425.36K for regular-fat products.
+- Outlet Size: Medium-sized outlets recorded the highest sales at $507.90K.
+- Outlet Location:Tier 3 outlets led with $472.13K.
+- Outlet Type: Supermarket Type 1 generated the highest sales at $787.55K.
 
 
 
